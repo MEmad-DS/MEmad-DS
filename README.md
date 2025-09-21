@@ -4,6 +4,7 @@
 - 📊 Passionate about data, mathematics, and solving real-world problems.
 - 🚀 Building projects to showcase my journey into data science.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-emad-460404237/).
+- ✍️ This GitHub profile is the start of my journey into Data Science. More projects coming soon 🚀
 
 
 
