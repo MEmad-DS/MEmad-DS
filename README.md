@@ -9,9 +9,10 @@ Welcome to my GitHub portfolio! 🚀
 - 🌍 Exploring projects in data analysis and visualization
 
 ## Projects
-- Student Performance Analysis
-- Sales Analysis
-- Movies Analysis
+- Student Performance Analysis – Data cleaning & visualization practice
+- Sales Analysis – Trend analysis of region/product sales
+- Movies Analysis – Exploring ratings and genre-performance relationships
+
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/mohamed-emad-460404237/)
